@@ -14,3 +14,4 @@ C:\Users\João\source\repos\calculadora-de-numeros-complexos\Calculadora\Calcula
 C:\Users\João\source\repos\calculadora-de-numeros-complexos\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\Operações\Multiplicar.xaml.g.cs
 C:\Users\João\source\repos\calculadora-de-numeros-complexos\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\Operações\Somar.xaml.g.cs
 C:\Users\João\source\repos\calculadora-de-numeros-complexos\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\Operações\Subtrair.xaml.g.cs
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\Calculadora\Calculadora\Calculadora\obj\Debug\netstandard2.0\Variasformatações.xaml.g.cs

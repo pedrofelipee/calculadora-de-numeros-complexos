@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadora.Variasformatações">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+
+                <Label Text="Digite o valor real do numero" />
+                <Entry x:Name="entry1"/>
+
+                <Label Text="Digite o valor imaginario do numero"/>
+                <Entry x:Name="entry2"/>
+
+                <Label x:Name="label1"
+                   Text="Primeira formatação: "/>
+                <Label x:Name="label2"
+                   Text="Segunda formatação: "/>
+                <Label x:Name="label3"
+                   Text="Terceira formatação: "/>
+                <Label x:Name="label4"
+                   Text="O conjugado é: "/>
+                <Label x:Name="label5"
+                   Text="O angulo é: "/>
+
+            <Button Text="Resultado" Clicked="Button_Clicked"/>
+
+                
+
+            </StackLayout>
+        </ContentPage.Content>
+</ContentPage>

@@ -27,10 +27,10 @@ namespace Calculadora
             var resultadoreal = Convert.ToDouble(x1) +Convert.ToDouble(y1);
             var resultadoimag = Convert.ToDouble(x2) + Convert.ToDouble(y2);
 
-            if(resultadoimag>0)
-                label1.Text = "O resultado é " + resultadoreal + "+" + resultadoimag + "i";
+            if(resultadoimag>=0)
+                label1.Text = "O resultado é: " + resultadoreal + "+" + resultadoimag + "i";
             else
-                label1.Text = "O resultado é " + resultadoreal + "" + resultadoimag + "i";
+                label1.Text = "O resultado é: " + resultadoreal + "" + resultadoimag + "i";
         }
     }
 }

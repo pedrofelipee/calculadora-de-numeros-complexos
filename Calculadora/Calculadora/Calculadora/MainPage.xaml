@@ -15,7 +15,8 @@
         <Button Text="Subtrair" Clicked="Button_Clicked_1"/>
         <Button Text="Dividir" Clicked="Button_Clicked_2"/>
         <Button Text="Multiplicar" Clicked="Button_Clicked_3"/>
-        
+        <Button Text="Diversas formatações para numeros complexos" Clicked="Button_Clicked_4"/>
+
     </StackLayout>
 
 </ContentPage>
