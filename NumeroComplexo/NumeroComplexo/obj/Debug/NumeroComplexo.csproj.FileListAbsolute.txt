@@ -1,0 +1,7 @@
+c:\users\joão\source\repos\NumeroComplexo\NumeroComplexo\bin\Debug\NumeroComplexo.exe.config
+c:\users\joão\source\repos\NumeroComplexo\NumeroComplexo\bin\Debug\NumeroComplexo.exe
+c:\users\joão\source\repos\NumeroComplexo\NumeroComplexo\bin\Debug\NumeroComplexo.pdb
+c:\users\joão\source\repos\NumeroComplexo\NumeroComplexo\obj\Debug\NumeroComplexo.csprojAssemblyReference.cache
+c:\users\joão\source\repos\NumeroComplexo\NumeroComplexo\obj\Debug\NumeroComplexo.csproj.CoreCompileInputs.cache
+c:\users\joão\source\repos\NumeroComplexo\NumeroComplexo\obj\Debug\NumeroComplexo.exe
+c:\users\joão\source\repos\NumeroComplexo\NumeroComplexo\obj\Debug\NumeroComplexo.pdb
