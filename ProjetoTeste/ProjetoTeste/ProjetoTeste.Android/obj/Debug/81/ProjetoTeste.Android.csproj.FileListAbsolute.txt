@@ -1,0 +1,4 @@
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\ProjetoTeste\ProjetoTeste\ProjetoTeste.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\ProjetoTeste\ProjetoTeste\ProjetoTeste.Android\obj\Debug\81\ProjetoTeste.Android.csprojAssemblyReference.cache
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\ProjetoTeste\ProjetoTeste\ProjetoTeste.Android\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\ProjetoTeste\ProjetoTeste\ProjetoTeste.Android\obj\Debug\81\res.flag

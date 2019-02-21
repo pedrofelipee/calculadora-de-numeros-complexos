@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Soma"
+             x:Class="Calculadora.Somar">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+
+
+            <Label Text="Digite o valor real do primeiro numero" />
+            <Entry x:Name="entry1"/>
+
+            <Label Text="Digite o valor imaginario do primeiro numero"/>
+            <Entry x:Name="entry2"/>
+
+            <Label Text="Digite o valor real do segundo numero" />
+            <Entry x:Name="entry3"/>
+
+            <Label Text="Digite o valor imaginario do segundo numero" />
+            <Entry x:Name="entry4"/>
+
+            <Button Text="Resultado" Clicked="Button_Clicked"/>
+            
+            
+            <Label x:Name="label1"
+                   Text="O resultado é: "/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

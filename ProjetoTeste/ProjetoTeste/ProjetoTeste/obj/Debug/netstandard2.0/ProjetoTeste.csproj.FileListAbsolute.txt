@@ -1,0 +1,13 @@
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\ProjetoTeste\ProjetoTeste\ProjetoTeste\bin\Debug\netstandard2.0\ProjetoTeste.deps.json
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\ProjetoTeste\ProjetoTeste\ProjetoTeste\bin\Debug\netstandard2.0\ProjetoTeste.dll
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\ProjetoTeste\ProjetoTeste\ProjetoTeste\bin\Debug\netstandard2.0\ProjetoTeste.pdb
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\ProjetoTeste\ProjetoTeste\ProjetoTeste\obj\Debug\netstandard2.0\ProjetoTeste.csprojAssemblyReference.cache
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\ProjetoTeste\ProjetoTeste\ProjetoTeste\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\ProjetoTeste\ProjetoTeste\ProjetoTeste\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\ProjetoTeste\ProjetoTeste\ProjetoTeste\obj\Debug\netstandard2.0\View1.xaml.g.cs
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\ProjetoTeste\ProjetoTeste\ProjetoTeste\obj\Debug\netstandard2.0\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\ProjetoTeste\ProjetoTeste\ProjetoTeste\obj\Debug\netstandard2.0\ProjetoTeste.AssemblyInfoInputs.cache
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\ProjetoTeste\ProjetoTeste\ProjetoTeste\obj\Debug\netstandard2.0\ProjetoTeste.AssemblyInfo.cs
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\ProjetoTeste\ProjetoTeste\ProjetoTeste\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\ProjetoTeste\ProjetoTeste\ProjetoTeste\obj\Debug\netstandard2.0\ProjetoTeste.dll
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\ProjetoTeste\ProjetoTeste\ProjetoTeste\obj\Debug\netstandard2.0\ProjetoTeste.pdb

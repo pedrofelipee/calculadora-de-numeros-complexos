@@ -14,9 +14,9 @@ namespace ProjetoTeste
             InitializeComponent();
         }
 
-        async private void Button_Clicked(object sender, EventArgs e)
-        {
-            await Navigation.PushAsync(new View1());
-        }
+       // async private void Button_Clicked(object sender, EventArgs e)
+        //{
+            //await Navigation.PushAsync(new View1());
+        //}
     }
 }

@@ -16,9 +16,9 @@ namespace ProjetoTeste
 		{
 			InitializeComponent ();
 		}
-        async private void Button_Clicked(object sender, EventArgs e)
-        {
-            await Navigation.PopModalAsync();
-        }
+        //async private void Button_Clicked(object sender, EventArgs e)
+        //{
+         //   await Navigation.PopModalAsync();
+        //}
     }
 }

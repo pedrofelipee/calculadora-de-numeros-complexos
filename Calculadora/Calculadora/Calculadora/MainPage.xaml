@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Calculadora de Numeros Complexos"
+             x:Class="Calculadora.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Bem vindo clique no tipo de operação que deseja realizar" 
+           HorizontalOptions="Center"
+           VerticalOptions="Center" 
+               Font="13"/>
+        
+        <Button Text="Somar" Clicked="Button_Clicked"/>
+        <Button Text="Subtrair" Clicked="Button_Clicked_1"/>
+        <Button Text="Dividir" Clicked="Button_Clicked_2"/>
+        <Button Text="Multiplicar" Clicked="Button_Clicked_3"/>
+        
+    </StackLayout>
+
+</ContentPage>

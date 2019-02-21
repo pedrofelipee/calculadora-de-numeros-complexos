@@ -1,0 +1,1 @@
+C:\Users\João\source\repos\calculadora-de-numeros-complexos\ProjetoTeste\ProjetoTeste\ProjetoTeste.UWP\obj\x86\Debug\ProjetoTeste.UWP.csprojAssemblyReference.cache
