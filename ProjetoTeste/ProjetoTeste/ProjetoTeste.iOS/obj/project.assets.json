@@ -719,11 +719,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\João\\source\\repos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.iOS\\ProjetoTeste.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\João\\source\\repos\\calculadora-de-numeros-complexos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.iOS\\ProjetoTeste.iOS.csproj",
       "projectName": "ProjetoTeste.iOS",
-      "projectPath": "C:\\Users\\João\\source\\repos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.iOS\\ProjetoTeste.iOS.csproj",
+      "projectPath": "C:\\Users\\João\\source\\repos\\calculadora-de-numeros-complexos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.iOS\\ProjetoTeste.iOS.csproj",
       "packagesPath": "C:\\Users\\João\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\João\\source\\repos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.iOS\\obj\\",
+      "outputPath": "C:\\Users\\João\\source\\repos\\calculadora-de-numeros-complexos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -740,8 +740,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\João\\source\\repos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj": {
-              "projectPath": "C:\\Users\\João\\source\\repos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj"
+            "C:\\Users\\João\\source\\repos\\calculadora-de-numeros-complexos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj": {
+              "projectPath": "C:\\Users\\João\\source\\repos\\calculadora-de-numeros-complexos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj"
             }
           }
         }

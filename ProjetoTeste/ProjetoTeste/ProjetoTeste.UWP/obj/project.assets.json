@@ -7494,11 +7494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\João\\source\\repos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.UWP\\ProjetoTeste.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\João\\source\\repos\\calculadora-de-numeros-complexos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.UWP\\ProjetoTeste.UWP.csproj",
       "projectName": "ProjetoTeste.UWP",
-      "projectPath": "C:\\Users\\João\\source\\repos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.UWP\\ProjetoTeste.UWP.csproj",
+      "projectPath": "C:\\Users\\João\\source\\repos\\calculadora-de-numeros-complexos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.UWP\\ProjetoTeste.UWP.csproj",
       "packagesPath": "C:\\Users\\João\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\João\\source\\repos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.UWP\\obj\\",
+      "outputPath": "C:\\Users\\João\\source\\repos\\calculadora-de-numeros-complexos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7518,8 +7518,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\João\\source\\repos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj": {
-              "projectPath": "C:\\Users\\João\\source\\repos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj"
+            "C:\\Users\\João\\source\\repos\\calculadora-de-numeros-complexos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj": {
+              "projectPath": "C:\\Users\\João\\source\\repos\\calculadora-de-numeros-complexos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj"
             }
           }
         }

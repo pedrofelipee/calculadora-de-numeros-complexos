@@ -349,11 +349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\João\\source\\repos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
+      "projectUniqueName": "C:\\Users\\João\\source\\repos\\calculadora-de-numeros-complexos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
       "projectName": "ProjetoTeste",
-      "projectPath": "C:\\Users\\João\\source\\repos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
+      "projectPath": "C:\\Users\\João\\source\\repos\\calculadora-de-numeros-complexos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste.csproj",
       "packagesPath": "C:\\Users\\João\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\João\\source\\repos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste\\obj\\",
+      "outputPath": "C:\\Users\\João\\source\\repos\\calculadora-de-numeros-complexos\\ProjetoTeste\\ProjetoTeste\\ProjetoTeste\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
